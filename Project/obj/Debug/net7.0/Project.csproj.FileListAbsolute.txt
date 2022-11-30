@@ -1,0 +1,15 @@
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\bin\Debug\net7.0\Project.exe
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\bin\Debug\net7.0\Project.deps.json
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\bin\Debug\net7.0\Project.dll
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\bin\Debug\net7.0\Project.pdb
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.dll
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\refint\Project.dll
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.pdb
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+D:\Users\Дмитрий\Desktop\Final Project\Final-Project\Project\obj\Debug\net7.0\ref\Project.dll
